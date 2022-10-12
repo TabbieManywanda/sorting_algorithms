@@ -43,7 +43,7 @@ size_t partition(int *array, ssize_t low, ssize_t high, size_t size)
 }
 
 /**
- *qsort - sorts a partition od an array of integers
+ *fastsort - sorts a partition od an array of integers
  *@array: array to sort
  *@low: lowest index of partition
  *@high: highest index of partition
